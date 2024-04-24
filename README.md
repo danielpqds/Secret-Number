@@ -19,7 +19,10 @@
 
 Acesse o jogo clickando nesse link (https://secret-number-2-0-steel.vercel.app/)
 
-https://github.com/danielpqds/Game-Secret-Number/assets/155841513/f5976e23-78ae-42de-969c-c2fcf8e0434b
+
+
+https://github.com/danielpqds/Secret-Number-2.0/assets/155841513/9a48271e-c612-4653-8541-7d2528076f92
+
 
 ## Contribuições
 Contribuições são bem-vindas! Se você identificar bugs, problemas de usabilidade ou desejar adicionar novos recursos, sinta-se à vontade para enviar uma solicitação de pull request.
