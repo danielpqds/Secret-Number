@@ -1,7 +1,7 @@
-<h1 align="center">SECRET NUMBER</h1>
+<h1 align="center">SECRET NUMBER 2.0!</h1>
 
 ## Descrição do Projeto
-<p>Este é um projeto pessoal desenvolvido como parte do meu portfólio, chamado Secret Number. O Secret Number é um mini jogo simples construído com HTML, CSS e JavaScript projetada para demonstrar minhas habilidades de lógica de programação programação, front-end e design web.</p>
+<p>A evolução do projeto SECRET-NUMBER para sua versão 2.0 marca um avanço significativo tanto em termos visuais quanto interativos. Ao dar vida aos elementos da página, agora os usuários se deparam com uma experiência mais imersiva e dinâmica. A introdução de interações intuitivas possibilita uma conexão mais profunda entre o usuário e a plataforma, elevando não apenas a estética, mas também a usabilidade. Além disso, a inclusão de uma voz remota amplia ainda mais a acessibilidade, proporcionando uma experiência mais inclusiva e acessível para todos os usuários, independentemente de suas habilidades ou necessidades específicas. Essas melhorias não apenas modernizam o projeto, mas também abrem novas possibilidades para engajamento e interação.</p>
 
 <image align="center">[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)</image>
 
@@ -11,8 +11,8 @@
 
 
 ## Tecnologias Utilizadas
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 
 ## Como Utilizar
@@ -27,7 +27,9 @@ https://github.com/danielpqds/Secret-Number-2.0/assets/155841513/9a48271e-c612-4
 ## Contribuições
 Contribuições são bem-vindas! Se você identificar bugs, problemas de usabilidade ou desejar adicionar novos recursos, sinta-se à vontade para enviar uma solicitação de pull request.
 
-Autor
-Este projeto foi desenvolvido por Álvaro Daniel.
+## Autor
+Este projeto foi desenvolvido por Álvaro Daniel, em parceria com Alura.
 
 Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou sugestão. Obrigado por conferir o projeto Secret Number! 🚀
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-daniel-5a76562a9/)
