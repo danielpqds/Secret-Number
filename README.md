@@ -1,7 +1,7 @@
 <h1 align="center">SECRET NUMBER!</h1>
 
 ## Descrição do Projeto
-<p>A evolução do projeto SECRET-NUMBER Ao dar vida aos elementos da página, agora os usuários se deparam com uma experiência mais imersiva e dinâmica. A introdução de interações intuitivas possibilita uma conexão mais profunda entre o usuário e a plataforma, elevando não apenas a estética, mas também a usabilidade. Além disso, a inclusão de uma voz remota amplia ainda mais a acessibilidade, proporcionando uma experiência mais inclusiva e acessível para todos os usuários, independentemente de suas habilidades ou necessidades específicas. Essas melhorias não apenas modernizam o projeto, mas também abrem novas possibilidades para engajamento e interação.</p>
+<p>Bem-vindo ao SECRET-NUMBER! Este é um projeto simples e divertido onde o usuário tenta adivinhar um número secreto escolhido aleatoriamente pela máquina. A cada tentativa, o computador fornece dicas para ajudar o jogador a chegar mais perto do número correto.</p>
 
 <image align="center">[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)</image>
 
